@@ -1,9 +1,9 @@
 https://drive.google.com/drive/folders/1Hfa8GXuca6uk-cP7aT390cVA0U6n0dW4?usp=sharing
 
 Link com as músicas necessárias para o funcionamento
-Não as upei no próprio github pois estouravam o limite permitido
+Não as foi realizado seu upload no próprio github pois estouravam o limite permitido
 
-O arquivo Server5.py deve ser armazenado no mesmo diretório que os arquivos .wav
+O arquivo Server5.py deve ser armazenado no mesmo diretório que os arquivos .wav para apresentar o funcionamento correto
 
 
 Esta é a quinta versão dos arquivos de socket e cliente
